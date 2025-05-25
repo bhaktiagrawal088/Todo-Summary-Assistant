@@ -3,7 +3,13 @@
 
 A full-stack productivity app that helps users manage tasks with enhanced features like AI-powered summary generation using Cohere and Slack integration for sharing daily summaries.
 
+![alt text](image-2.png)
+---
 
+![alt text](image.png)
+---
+
+![alt text](image-1.png)
 
 ##  Features
 
