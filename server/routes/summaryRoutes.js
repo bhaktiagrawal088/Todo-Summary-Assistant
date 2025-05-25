@@ -34,8 +34,8 @@ Here are my current pending tasks:
 
 ${todoText}
 Give me a short summary in 3-4 lines:
-1. Total tasks & summarize it
-
+1. Total tasks
+2. summarize the task
 3. A quick motivational note
 Keep it concise.
 `;
